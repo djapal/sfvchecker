@@ -1,0 +1,10 @@
+.sfvOK { 
+	-fx-background-color: palegreen; 
+/*   -fx-control-inner-background: palegreen;
+  -fx-accent: derive(-fx-control-inner-background, -40%);
+  -fx-cell-hover-color: derive(-fx-control-inner-background, -20%); */
+}
+
+.sfvProblem { 
+	-fx-background-color: palevioletred;
+}
